@@ -2,14 +2,14 @@
 SELECT HACKER.hacker_id, 
        HACKER.name
 FROM (SELECT H.hacker_id, 
-             H.name, COUNT(*) AS TOTAL_CHALLENGES
+             H.name, COUNT(*) AS total_challenges
       FROM Hackers AS H
       JOIN Submissions AS S
-           ON S.hacker_id = H.hacker_id
+      ON S.hacker_id = H.hacker_id
       JOIN Challenges AS C
-           ON C.challenge_id = S.challenge_id
+      ON C.challenge_id = S.challenge_id
       JOIN Difficulty AS D
-           ON D.difficulty_level = C.difficulty_level
+      ON D.difficulty_level = C.difficulty_level
       WHERE S.score = D.score
       GROUP BY H.hacker_id, 
                H.name) AS HACKER
