@@ -188,7 +188,69 @@ These SQL challenges are categorized into <strong>6</strong> key domains (**`Bas
   </tr>
 </table>
   
-   
+<h3 align="left"> Basic Join </h3>
+<table>
+  <tr>
+    <th align="center" scope="col"> <strong>Number</strong> </th>
+    <th align="center" scope="col"> <strong>Challenges</strong> </th>
+    <th align="center" scope="col"> <strong>Solutions</strong> </th>
+    <th align="center" scope="col"> <strong>Max Score</strong> </th>
+  </tr>
+  <tr>
+    <th colspan="4" align="left" scope="col"> <strong>Easy</strong> </th>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 1 </td>
+    <td align="Left" scope="left"> Type of Triangle </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/tree/main/advanced-select/easy"> File </a> </td>
+    <td align="center" scope="row"> 10 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 2 </td>
+    <td align="Left" scope="left"> Type of Triangle </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/tree/main/advanced-select/easy"> File </a> </td>
+    <td align="center" scope="row"> 10 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 3 </td>
+    <td align="Left" scope="left"> Type of Triangle </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/tree/main/advanced-select/easy"> File </a> </td>
+    <td align="center" scope="row"> 10 </td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left" scope="col"> <strong>Medium</strong> </th>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 1 </td>
+    <td align="Left" scope="left"> The PADS </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/blob/main/advanced-select/medium/the-PADS.sql"> File </a> </td>
+    <td align="center" scope="row"> 20 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 2 </td>
+    <td align="Left" scope="left"> 	Occupations </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/blob/main/advanced-select/medium/occupations.sql"> File </a> </td>
+    <td align="center" scope="row"> 30 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 3 </td>
+    <td align="Left" scope="left"> Binary Tree Nodes </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/blob/main/advanced-select/medium/binary-tree-nodes.sql"> File </a> </td>
+    <td align="center" scope="row"> 30 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 4 </td>
+    <td align="Left" scope="left"> New Companies </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/blob/main/advanced-select/medium/new-companies.sql"> File </a> </td>
+    <td align="center" scope="row"> 30 </td>
+  </tr>
+  <tr>
+    <td align="center" scope="row"> 5 </td>
+    <td align="Left" scope="left"> New Companies </td>
+    <td align="center" scope="left"> <a href="https://github.com/cuongtrans/hackerrank-sql-challenges/blob/main/advanced-select/medium/new-companies.sql"> File </a> </td>
+    <td align="center" scope="row"> 30 </td>
+  </tr>
+</table>
     
   
     
